@@ -1,0 +1,6 @@
+{
+  "name": "Pen Battle: Bench Challenge",
+  "description": "A childhood school bench pen fight 2D physics game with multiplayer turns, realistic momentum, sound effects, and scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

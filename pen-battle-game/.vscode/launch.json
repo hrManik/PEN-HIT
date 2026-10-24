@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch Pen Battle in Chrome",
+      "type": "chrome",
+      "request": "launch",
+      "file": "${workspaceFolder}/index.html"
+    },
+    {
+      "name": "Launch Pen Battle in Edge",
+      "type": "msedge",
+      "request": "launch",
+      "file": "${workspaceFolder}/index.html"
+    }
+  ]
+}
